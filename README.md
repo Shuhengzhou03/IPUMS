@@ -15,7 +15,7 @@ The repository is organized as follows:
 - **README.md**: This file, providing an overview, structure, and LLM usage.
 
 ## LLM Usage
-This project utilized **ChatGPT-4** for:
+This project utilized **ChatGPT-4o** for:
 - Writing and refining the README file.
 - Providing guidance on structuring the Quarto document.
 - Enhancing the clarity of methodology descriptions and visualizations.
