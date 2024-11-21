@@ -154,13 +154,15 @@ Proper acknowledgment of IPUMS USA is included in this analysis, following their
 # Code and Tools
 This analysis is implemented in **R** using the following key libraries:
 
--`dplyr`[@dplyr] for data manipulation.
+- `dplyr` [@dplyr] for data manipulation.
 
--`tibble`[@tibble] for tidy data representation.
+- `tibble` [@tibble] for tidy data representation.
 
--`readr`[@readr] for reading and handling CSV files.
+- `readr` [@readr] for reading and handling CSV files.
 
 
 The code provided is fully reproducible and included throughout this `.qmd` file. Users can adapt the methodology or replicate the results by running the Quarto document in RStudio or a similar environment.
 
 \newpage
+
+Reference: 
